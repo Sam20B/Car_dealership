@@ -1148,3 +1148,4 @@ if x == 'Chevrolet':
     if y not in Nissan:
         print("The color you entered is not available at the moment")
         print("You can enter another color or view other makes or view")
+
